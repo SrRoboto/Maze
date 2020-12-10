@@ -10,51 +10,42 @@
     top: 0rem;
     object-fit: cover;
 }
-#twenty {
-    /* background-color: yellow; */
+#twenty-9 {
+    background-color: yellow;
     position: absolute;
 
-    width: 150px;
-    height: 255px;
-    bottom: 575px;
-    right: 1050px;
+    width: 87px;
+    height: 305px;
+    bottom: 485px;
+    right: 1210px;
     z-index: 1;
+    transform: skewY(-35deg);
 }
-#twenty-six {
-    /* background-color: yellow; */
+#twenty-2 {
+    background-color: yellow;
     position: absolute;
 
-    width: 150px;
-    height: 255px;
+    width: 184px;
+    height: 245px;
     bottom: 575px;
-    right: 860px;
+    right: 902px;
     z-index: 1; 
 }
-#forty-one {
-    /* background-color: yellow; */
+#twelve {
+    background-color: yellow;
     position: absolute;
 
-    width: 70px;
-    height: 255px;
-    bottom: 575px;
-    right: 770px;
+    width: 90px;
+    height: 314px;
+    bottom: 483px;
+    right: 684px;
     z-index: 1;
-}
-#twenty-1 {
-    /* background-color: yellow; */
-    position: absolute;
-
-    width: 80px;
-    height: 255px;
-    bottom: 575px;
-    right: 655px;
-    z-index: 1;
+    transform: skewY(35deg);
 }
 #parent {
     width: 800px;
     height: 1000px;
     border: 5px;
-    border-color: yellow;
 
     display: block;
     margin-left: auto;
