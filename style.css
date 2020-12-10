@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+.entrance {
+    position: absolute;
+    display: block;
+    scale: 100%;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 10px;
+    top: 5rem;
+}
+#entrance2 {
+    top: 172px;
+    scale: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#entrance2:hover {
+    scale: 80%;
+}
+#colum {
+    top: 41rem;
+}

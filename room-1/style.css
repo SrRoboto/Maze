@@ -1,0 +1,64 @@
+#black {
+    background-color: #000;
+}
+#room1 {
+    scale: 100%;
+    display: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 2;
+    top: 0rem;
+    object-fit: cover;
+}
+#twenty {
+    background-color: yellow;
+    position: absolute;
+
+    width: 150px;
+    height: 255px;
+    bottom: 575px;
+    right: 1050px;
+    z-index: 1;
+}
+#twenty-six {
+    background-color: yellow;
+    position: absolute;
+
+    width: 150px;
+    height: 255px;
+    bottom: 575px;
+    right: 860px;
+    z-index: 1; 
+}
+#forty-one {
+    background-color: yellow;
+    position: absolute;
+
+    width: 70px;
+    height: 299px;
+    bottom: 551px;
+    right: 767px;
+    z-index: 1;
+    transform: skewY(28deg);
+}
+#twenty-1 {
+    background-color: yellow;
+    position: absolute;
+
+    width: 80px;
+    height: 365px;
+    bottom: 492px;
+    right: 655px;
+    z-index: 1;
+    transform: skewY(28deg);
+}
+#parent {
+    width: 800px;
+    height: 1000px;
+    border: 5px;
+    border-color: yellow;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
