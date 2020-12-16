@@ -1,7 +1,7 @@
 #black {
     background-color: #000;
 }
-#room1 {
+#room6 {
     scale: 100%;
     display: absolute;
     margin-left: auto;
@@ -10,44 +10,15 @@
     top: 0rem;
     object-fit: cover;
 }
-#twenty {
-    /* background-color: yellow; */
+#forty {
     position: absolute;
+    border-radius: 50%;
 
-    width: 150px;
-    height: 255px;
-    bottom: 575px;
-    right: 1050px;
-    z-index: 1;
-}
-#twenty-six {
-    /* background-color: yellow; */
-    position: absolute;
-
-    width: 150px;
-    height: 255px;
-    bottom: 575px;
-    right: 860px;
-    z-index: 1; 
-}
-#forty-one {
-    /* background-color: yellow; */
-    position: absolute;
-
-    width: 70px;
-    height: 255px;
-    bottom: 575px;
-    right: 770px;
-    z-index: 1;
-}
-#twenty-1 {
-    /* background-color: yellow; */
-    position: absolute;
-
-    width: 80px;
-    height: 255px;
-    bottom: 575px;
-    right: 655px;
+    width: 130px;
+    height: 235px;
+    bottom: 480px;
+    right: 1200px;
+    transform: rotate(25deg);
     z-index: 1;
 }
 #parent {

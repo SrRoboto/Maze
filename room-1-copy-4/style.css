@@ -1,7 +1,7 @@
 #black {
     background-color: #000;
 }
-#room1 {
+#room4 {
     scale: 100%;
     display: absolute;
     margin-left: auto;
@@ -10,45 +10,72 @@
     top: 0rem;
     object-fit: cover;
 }
-#twenty {
-    /* background-color: yellow; */
+#forty-4 {
     position: absolute;
 
-    width: 150px;
-    height: 255px;
-    bottom: 575px;
-    right: 1050px;
+    width: 102px;
+    height: 406px;
+    bottom: 398px;
+    right: 1212px;
+    transform: skewY(-36deg);
     z-index: 1;
 }
-#twenty-six {
-    /* background-color: yellow; */
+#twenty-9 {
     position: absolute;
 
-    width: 150px;
-    height: 255px;
-    bottom: 575px;
-    right: 860px;
+    width: 45px;
+    height: 275px;
+    bottom: 507px;
+    right: 1118px;
+    transform: skewY(-36deg);
     z-index: 1; 
 }
-#forty-one {
-    /* background-color: yellow; */
+#fithteen {
     position: absolute;
 
-    width: 70px;
-    height: 255px;
-    bottom: 575px;
-    right: 770px;
+    width: 26px;
+    height: 220px;
+    bottom: 549px;
+    right: 1072px;
+    transform: skewY(-39deg);
     z-index: 1;
 }
-#twenty-1 {
-    /* background-color: yellow; */
+#eleven {
     position: absolute;
 
-    width: 80px;
-    height: 255px;
-    bottom: 575px;
-    right: 655px;
+    width: 65px;
+    height: 172px;
+    bottom: 587px;
+    right: 955px;
     z-index: 1;
+}
+#sixteen {
+    position: absolute;
+
+    width: 24px;
+    height: 224px;
+    bottom: 548px;
+    right: 880px;
+    transform: skewY(39deg);
+    z-index: 1;
+}
+#twenty-4 {
+    position: absolute;
+
+    width: 50px;
+    height: 279px;
+    bottom: 504px;
+    right: 812px;
+    transform: skewY(37deg);
+}
+#forty-3 {
+    position: absolute;
+
+    width: 110px;
+    height: 400px;
+    bottom: 408px;
+    right: 657px;
+    transform: skewY(35deg);
 }
 #parent {
     width: 800px;
