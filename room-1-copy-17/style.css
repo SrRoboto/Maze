@@ -1,7 +1,7 @@
 #black {
     background-color: #000;
 }
-#room1 {
+#room17 {
     scale: 100%;
     display: absolute;
     margin-left: auto;
@@ -10,7 +10,7 @@
     top: 0rem;
     object-fit: cover;
 }
-#twenty {
+#six {
     /* background-color: yellow; */
     position: absolute;
 
@@ -20,7 +20,7 @@
     right: 1050px;
     z-index: 1;
 }
-#twenty-six {
+#forty-5 {
     /* background-color: yellow; */
     position: absolute;
 
@@ -30,7 +30,7 @@
     right: 860px;
     z-index: 1; 
 }
-#forty-one {
+#thirty-3 {
     /* background-color: yellow; */
     position: absolute;
 
