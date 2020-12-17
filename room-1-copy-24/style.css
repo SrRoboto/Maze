@@ -10,7 +10,7 @@
     top: 0rem;
     object-fit: cover;
 }
-#twenty {
+#start {
     /* background-color: yellow; */
     position: absolute;
 
@@ -18,36 +18,6 @@
     height: 255px;
     bottom: 575px;
     right: 1050px;
-    z-index: 1;
-}
-#twenty-six {
-    /* background-color: yellow; */
-    position: absolute;
-
-    width: 150px;
-    height: 255px;
-    bottom: 575px;
-    right: 860px;
-    z-index: 1; 
-}
-#forty-one {
-    /* background-color: yellow; */
-    position: absolute;
-
-    width: 70px;
-    height: 255px;
-    bottom: 575px;
-    right: 770px;
-    z-index: 1;
-}
-#twenty-1 {
-    /* background-color: yellow; */
-    position: absolute;
-
-    width: 80px;
-    height: 255px;
-    bottom: 575px;
-    right: 655px;
     z-index: 1;
 }
 #parent {
