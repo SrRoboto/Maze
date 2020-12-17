@@ -17,7 +17,7 @@
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 1050px;
+    right: 1200px;
     z-index: 1;
 }
 #ten {
@@ -27,24 +27,24 @@
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 860px;
+    right: 1000px;
     z-index: 1; 
 }
 #forty-2 {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 70px;
+    width: 90px;
     height: 255px;
     bottom: 575px;
-    right: 770px;
+    right: 850px;
     z-index: 1;
 }
 #twenty {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 80px;
+    width: 130px;
     height: 255px;
     bottom: 575px;
     right: 655px;

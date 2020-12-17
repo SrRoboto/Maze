@@ -16,18 +16,18 @@
 
     width: 150px;
     height: 255px;
-    bottom: 575px;
-    right: 1050px;
+    bottom: 475px;
+    right: 1150px;
     z-index: 1;
 }
 #nineteen {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
+    width: 100px;
     height: 255px;
-    bottom: 575px;
-    right: 860px;
+    bottom: 500px;
+    right: 1000px;
     z-index: 1; 
 }
 #twenty-1 {
@@ -36,11 +36,11 @@
 
     width: 70px;
     height: 255px;
-    bottom: 575px;
-    right: 770px;
+    bottom: 475px;
+    right: 700px;
     z-index: 1;
 }
-#twenty-1 {
+#twenty {
     /* background-color: yellow; */
     position: absolute;
 

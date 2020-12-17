@@ -11,33 +11,33 @@
     object-fit: cover;
 }
 #ten {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
     height: 255px;
-    bottom: 575px;
-    right: 1050px;
+    bottom: 525px;
+    right: 1200px;
     z-index: 1;
 }
 #forty-3 {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
     height: 255px;
-    bottom: 575px;
-    right: 860px;
+    bottom: 525px;
+    right: 880px;
     z-index: 1; 
 }
 #twenty-4 {
-    background-color: yellow;
+    /* background-color: rgb(121, 121, 50); */
     position: absolute;
 
     width: 70px;
     height: 255px;
-    bottom: 575px;
-    right: 770px;
+    bottom: 525px;
+    right: 700px;
     z-index: 1;
 }
 #parent {

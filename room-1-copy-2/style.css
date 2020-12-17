@@ -11,6 +11,7 @@
     object-fit: cover;
 }
 #twenty-9 {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 87px;
@@ -21,6 +22,7 @@
     transform: skewY(-35deg);
 }
 #twenty-2 {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 184px;
@@ -30,6 +32,7 @@
     z-index: 1; 
 }
 #twelve {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 90px;

@@ -11,7 +11,7 @@
     object-fit: cover;
 }
 #thirty {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
@@ -21,7 +21,7 @@
     z-index: 1;
 }
 #thirty-7 {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
@@ -31,13 +31,13 @@
     z-index: 1; 
 }
 #three {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
     width: 70px;
     height: 255px;
     bottom: 575px;
-    right: 770px;
+    right: 700px;
     z-index: 1;
 }
 #parent {

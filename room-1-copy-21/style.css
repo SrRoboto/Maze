@@ -16,8 +16,8 @@
 
     width: 150px;
     height: 255px;
-    bottom: 575px;
-    right: 1050px;
+    bottom: 500px;
+    right: 1150px;
     z-index: 1;
 }
 #twenty-4 {
@@ -26,7 +26,7 @@
 
     width: 150px;
     height: 255px;
-    bottom: 575px;
+    bottom: 500px;
     right: 860px;
     z-index: 1; 
 }
@@ -36,8 +36,8 @@
 
     width: 70px;
     height: 255px;
-    bottom: 575px;
-    right: 770px;
+    bottom: 500px;
+    right: 670px;
     z-index: 1;
 }
 #parent {

@@ -11,23 +11,23 @@
     object-fit: cover;
 }
 #thirty-6 {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 1050px;
+    right: 1250px;
     z-index: 1;
 }
 #seven {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 860px;
+    right: 660px;
     z-index: 1; 
 }
 #forty-one {

@@ -11,6 +11,7 @@
     object-fit: cover;
 }
 #thirty-1 {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 82px;
@@ -21,6 +22,7 @@
     z-index: 1;
 }
 #six {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 42px;
@@ -31,6 +33,7 @@
     z-index: 1; 
 }
 #twenty-9 {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 94px;
@@ -41,6 +44,7 @@
     z-index: 1;
 }
 #twelve {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 40px;

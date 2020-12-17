@@ -17,27 +17,27 @@
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 1050px;
+    right: 1200px;
     z-index: 1;
 }
 #thirty-5 {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
-    height: 255px;
+    width: 100px;
+    height: 355px;
     bottom: 575px;
-    right: 860px;
+    right: 1070px;
     z-index: 1; 
 }
 #ten {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 70px;
+    width: 100px;
     height: 255px;
     bottom: 575px;
-    right: 770px;
+    right: 930px;
     z-index: 1;
 }
 #thirty-8 {

@@ -11,43 +11,43 @@
     object-fit: cover;
 }
 #two {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 1050px;
+    right: 1150px;
     z-index: 1;
 }
 #twenty-1 {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 860px;
+    right: 880px;
     z-index: 1; 
 }
 #eight {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
     width: 70px;
     height: 255px;
     bottom: 575px;
-    right: 770px;
+    right: 690px;
     z-index: 1;
 }
 #thirty-9 {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
-    width: 80px;
-    height: 255px;
-    bottom: 575px;
-    right: 655px;
+    width: 130px;
+    height: 150px;
+    bottom: 375px;
+    right: 900px;
     z-index: 1;
 }
 #parent {

@@ -17,27 +17,27 @@
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 1050px;
+    right: 1230px;
     z-index: 1;
 }
-#thirty-six {
+#thirty-6 {
     /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 860px;
+    right: 1060px;
     z-index: 1; 
 }
 #thirty-8 {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 70px;
+    width: 90px;
     height: 255px;
     bottom: 575px;
-    right: 770px;
+    right: 800px;
     z-index: 1;
 }
 #one {

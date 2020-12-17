@@ -14,20 +14,20 @@
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
+    width: 100px;
     height: 255px;
     bottom: 575px;
-    right: 1050px;
+    right: 1250px;
     z-index: 1;
 }
 #four {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
+    width: 100px;
     height: 255px;
     bottom: 575px;
-    right: 860px;
+    right: 1100px;
     z-index: 1; 
 }
 #twelve {

@@ -11,6 +11,7 @@
     object-fit: cover;
 }
 #thirty-3 {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 78px;
@@ -21,6 +22,7 @@
     z-index: 1;
 }
 #nine {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 139px;
@@ -30,6 +32,7 @@
     z-index: 1; 
 }
 #twenty-1 {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 76px;

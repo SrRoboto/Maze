@@ -1,7 +1,7 @@
 #black {
     background-color: #000;
 }
-#room1 {
+#room43 {
     scale: 100%;
     display: absolute;
     margin-left: auto;
@@ -17,7 +17,7 @@
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 1050px;
+    right: 900px;
     z-index: 1;
 }
 #thirty-8 {
@@ -25,9 +25,9 @@
     position: absolute;
 
     width: 150px;
-    height: 255px;
-    bottom: 575px;
-    right: 860px;
+    height: 200px;
+    bottom: 350px;
+    right: 900px;
     z-index: 1; 
 }
 #forty-one {

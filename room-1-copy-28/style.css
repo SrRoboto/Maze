@@ -14,20 +14,20 @@
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
+    width: 50px;
     height: 255px;
-    bottom: 575px;
-    right: 1050px;
+    bottom: 555px;
+    right: 1200px;
     z-index: 1;
 }
 #forty-3 {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
+    width: 130px;
     height: 255px;
     bottom: 575px;
-    right: 860px;
+    right: 900px;
     z-index: 1; 
 }
 #forty-5 {
@@ -36,18 +36,18 @@
 
     width: 70px;
     height: 255px;
-    bottom: 575px;
-    right: 770px;
+    bottom: 555px;
+    right: 700px;
     z-index: 1;
 }
 #thirty-2 {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 80px;
-    height: 255px;
-    bottom: 575px;
-    right: 655px;
+    width: 150px;
+    height: 120px;
+    bottom: 420px;
+    right: 900px;
     z-index: 1;
 }
 #parent {

@@ -14,10 +14,10 @@
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
+    width: 100px;
     height: 255px;
-    bottom: 575px;
-    right: 1050px;
+    bottom: 555px;
+    right: 1230px;
     z-index: 1;
 }
 #twenty-7 {
@@ -27,7 +27,7 @@
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 860px;
+    right: 800px;
     z-index: 1; 
 }
 #one {
@@ -37,7 +37,7 @@
     width: 70px;
     height: 255px;
     bottom: 575px;
-    right: 770px;
+    right: 650px;
     z-index: 1;
 }
 #parent {

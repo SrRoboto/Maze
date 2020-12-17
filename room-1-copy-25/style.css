@@ -10,34 +10,34 @@
     top: 0rem;
     object-fit: cover;
 }
-#twenty {
+#thirty-4 {
     /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
     height: 255px;
-    bottom: 575px;
-    right: 1050px;
+    bottom: 450px;
+    right: 1170px;
     z-index: 1;
 }
-#twenty-six {
+#thirteen {
     /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
     height: 255px;
-    bottom: 575px;
-    right: 860px;
+    bottom: 450px;
+    right: 990px;
     z-index: 1; 
 }
-#forty-one {
+#thirty-5 {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 70px;
+    width: 130px;
     height: 255px;
-    bottom: 575px;
-    right: 770px;
+    bottom: 450px;
+    right: 660px;
     z-index: 1;
 }
 #twenty-1 {

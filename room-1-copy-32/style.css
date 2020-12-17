@@ -15,18 +15,18 @@
     position: absolute;
 
     width: 150px;
-    height: 255px;
-    bottom: 575px;
-    right: 1050px;
+    height: 155px;
+    bottom: 500px;
+    right: 1200px;
     z-index: 1;
 }
 #sixteen {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
-    height: 255px;
-    bottom: 575px;
+    width: 300px;
+    height: 155px;
+    bottom: 375px;
     right: 860px;
     z-index: 1; 
 }
@@ -35,9 +35,9 @@
     position: absolute;
 
     width: 70px;
-    height: 255px;
+    height: 155px;
     bottom: 575px;
-    right: 770px;
+    right: 900px;
     z-index: 1;
 }
 #twenty-8 {
@@ -46,7 +46,7 @@
 
     width: 80px;
     height: 255px;
-    bottom: 575px;
+    bottom: 475px;
     right: 655px;
     z-index: 1;
 }

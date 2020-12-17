@@ -11,17 +11,17 @@
     object-fit: cover;
 }
 #thirty-4 {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 1050px;
+    right: 1150px;
     z-index: 1;
 }
 #forty-1 {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
@@ -30,14 +30,14 @@
     right: 860px;
     z-index: 1; 
 }
-#twenty-1 {
-    background-color: yellow;
+#fourteen {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 80px;
     height: 255px;
     bottom: 575px;
-    right: 655px;
+    right: 700px;
     z-index: 1;
 }
 #parent {

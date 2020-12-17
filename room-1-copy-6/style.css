@@ -11,6 +11,7 @@
     object-fit: cover;
 }
 #forty {
+    /* background-color: yellow; */
     position: absolute;
     border-radius: 50%;
 

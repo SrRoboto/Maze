@@ -11,6 +11,7 @@
     object-fit: cover;
 }
 #forty-4 {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 102px;
@@ -21,6 +22,7 @@
     z-index: 1;
 }
 #twenty-9 {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 45px;
@@ -31,6 +33,7 @@
     z-index: 1; 
 }
 #fithteen {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 26px;
@@ -41,6 +44,7 @@
     z-index: 1;
 }
 #eleven {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 65px;
@@ -50,6 +54,7 @@
     z-index: 1;
 }
 #sixteen {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 24px;
@@ -60,6 +65,7 @@
     z-index: 1;
 }
 #twenty-4 {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 50px;
@@ -69,6 +75,7 @@
     transform: skewY(37deg);
 }
 #forty-3 {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 110px;

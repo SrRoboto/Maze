@@ -16,8 +16,8 @@
 
     width: 150px;
     height: 255px;
-    bottom: 575px;
-    right: 1050px;
+    bottom: 425px;
+    right: 1250px;
     z-index: 1;
 }
 #six {
@@ -26,8 +26,8 @@
 
     width: 150px;
     height: 255px;
-    bottom: 575px;
-    right: 860px;
+    bottom: 505px;
+    right: 1000px;
     z-index: 1; 
 }
 #thirty-8 {
@@ -35,9 +35,9 @@
     position: absolute;
 
     width: 70px;
-    height: 255px;
+    height: 155px;
     bottom: 575px;
-    right: 770px;
+    right: 900px;
     z-index: 1;
 }
 #twenty-1 {

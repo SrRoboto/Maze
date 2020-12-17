@@ -10,24 +10,24 @@
     top: 0rem;
     object-fit: cover;
 }
-#twenty {
-    background-color: yellow;
+#forty {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 1050px;
+    right: 1150px;
     z-index: 1;
 }
-#twenty-six {
-    background-color: yellow;
+#twenty-4 {
+    /* background-color: yellow; */
     position: absolute;
 
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 860px;
+    right: 660px;
     z-index: 1; 
 }
 #parent {

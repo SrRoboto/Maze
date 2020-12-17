@@ -14,20 +14,20 @@
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
+    width: 100px;
     height: 255px;
     bottom: 575px;
-    right: 1050px;
+    right: 1020px;
     z-index: 1;
 }
 #eighteen {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
+    width: 100px;
     height: 255px;
     bottom: 575px;
-    right: 860px;
+    right: 660px;
     z-index: 1; 
 }
 #forty-one {
@@ -40,7 +40,7 @@
     right: 770px;
     z-index: 1;
 }
-#twenty-1 {
+#twenty {
     /* background-color: yellow; */
     position: absolute;
 

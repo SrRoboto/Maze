@@ -14,20 +14,20 @@
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
-    height: 255px;
-    bottom: 575px;
-    right: 1050px;
+    width: 70px;
+    height: 355px;
+    bottom: 455px;
+    right: 1250px;
     z-index: 1;
 }
 #forty {
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
+    width: 70px;
     height: 255px;
     bottom: 575px;
-    right: 860px;
+    right: 1160px;
     z-index: 1; 
 }
 #thirty-5 {
@@ -37,7 +37,7 @@
     width: 70px;
     height: 255px;
     bottom: 575px;
-    right: 770px;
+    right: 870px;
     z-index: 1;
 }
 #two {
@@ -47,7 +47,7 @@
     width: 80px;
     height: 255px;
     bottom: 575px;
-    right: 655px;
+    right: 755px;
     z-index: 1;
 }
 #parent {

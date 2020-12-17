@@ -14,10 +14,10 @@
     /* background-color: yellow; */
     position: absolute;
 
-    width: 150px;
+    width: 70px;
     height: 255px;
     bottom: 575px;
-    right: 1050px;
+    right: 1150px;
     z-index: 1;
 }
 #thirty-4 {
@@ -27,7 +27,7 @@
     width: 150px;
     height: 255px;
     bottom: 575px;
-    right: 860px;
+    right: 890px;
     z-index: 1; 
 }
 #five {
@@ -37,7 +37,7 @@
     width: 70px;
     height: 255px;
     bottom: 575px;
-    right: 770px;
+    right: 750px;
     z-index: 1;
 }
 #fifteen {
