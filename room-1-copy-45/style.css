@@ -10,7 +10,7 @@
     top: 0rem;
     object-fit: cover;
 }
-#twenty {
+#twenty-8 {
     /* background-color: yellow; */
     position: absolute;
 
@@ -20,7 +20,7 @@
     right: 1050px;
     z-index: 1;
 }
-#twenty-six {
+#seventeen {
     /* background-color: yellow; */
     position: absolute;
 
@@ -30,7 +30,7 @@
     right: 860px;
     z-index: 1; 
 }
-#forty-one {
+#thirty-6 {
     /* background-color: yellow; */
     position: absolute;
 
@@ -40,12 +40,22 @@
     right: 770px;
     z-index: 1;
 }
-#twenty-1 {
+#nineteen {
     /* background-color: yellow; */
     position: absolute;
 
     width: 80px;
     height: 255px;
+    bottom: 575px;
+    right: 655px;
+    z-index: 1;
+}
+#twenty-3 {
+    /* background-color: yellow; */
+    position: absolute;
+
+    width: 100px;
+    height: 355px;
     bottom: 575px;
     right: 655px;
     z-index: 1;
