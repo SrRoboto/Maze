@@ -1,6 +1,11 @@
 body {
     background-color: black;
 }
+#parent {
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+}
 .entrance {
     position: absolute;
     display: block;
@@ -22,6 +27,36 @@ body {
 #entrance2:hover {
     scale: 80%;
 }
+.directions {
+    position: absolute;
+    display: block;
+    margin-top: 44rem;
+}
 #colum {
     top: 41rem;
+}
+.text {
+margin-top: 53rem;
+margin-left: 11rem;
+color: white;
+}
+#p1 {
+    margin-top: -1.7rem;
+    margin-left: 14rem;
+}
+#p2 {
+    text-indent: 25px;
+    margin-top: -.7rem;
+}
+#p3 {
+    text-indent: 25px;
+    margin-top: -.7rem;
+}
+#p4 {
+    text-indent: 25px;
+    margin-top: -.7rem;
+}
+#p5 {
+   text-indent: 25px;
+   margin-top: -.7rem;
 }
